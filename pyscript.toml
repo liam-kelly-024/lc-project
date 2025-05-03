@@ -1,6 +1,6 @@
 name = "Graph Generator for Health Data"
 packages = ["matplotlib", "seaborn"]
 [files]
-"https://raw.githubusercontent.com/liam-kelly-024/graph-gui-assets/refs/heads/main/heartrate_dataset.csv" = ""
-"https://raw.githubusercontent.com/liam-kelly-024/graph-gui-assets/refs/heads/main/stress_dataset.csv" = ""
-"https://raw.githubusercontent.com/liam-kelly-024/graph-gui-assets/refs/heads/main/blood_oxygen_dataset.csv" = ""
+"https://raw.githubusercontent.com/liam-kelly-024/lc-project/refs/heads/main/assets/heartrate_dataset.csv" = ""
+"https://raw.githubusercontent.com/liam-kelly-024/lc-project/refs/heads/main/assets/stress_dataset.csv" = ""
+"https://raw.githubusercontent.com/liam-kelly-024/lc-project/refs/heads/main/assets/blood_oxygen_dataset.csv" = ""
